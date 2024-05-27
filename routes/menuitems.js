@@ -20,7 +20,7 @@ router.post('/',async (req,res)=>{
     }
 
     })
-
+//commented code
     router.get('/',async (req,res)=>{
         try{
      console.log("fetching data");
